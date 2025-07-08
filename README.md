@@ -1,5 +1,5 @@
 
-- 🔭 Currently working on: [Multi Metric Optimization paper](https://github.com/KianaLia/-IN-PROGRESS--Multi-Metric-Optimization)
+- 🔭 Currently working on: [Rayleigh-Based Multi-Objective Optimization for Business-Aware Re-Ranking Paper](https://github.com/KianaLia/-IN-PROGRESS--Multi-Metric-Optimization)
 
 
 <h3 align="left"> Tech Stack:</h3>
